@@ -7,7 +7,7 @@
 <p align="center">
     <a href=https://github.com/ely0rbek">
         <img
-                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=.NET%20Developer&center=true&width=580&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Full%20Stack%20.NET%20Developer&center=true&width=580&height=45"></a>
 </p>
 
  </br>
