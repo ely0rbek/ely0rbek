@@ -7,7 +7,7 @@
 <p align="center">
     <a href=https://github.com/ely0rbek">
         <img
-                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Data%20Scientist%20and%20Data Analyst&center=true&width=580&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Data%20Scientist%20vs%20Data%20Analyst&center=true&width=580&height=45"></a>
 </p>
 
  </br>
